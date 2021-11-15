@@ -2,6 +2,5 @@
 
 🎊 Hello world!
 
-- :memo: [Blog](https://chungzh.cn) :email: `lynux@paymongo.com`.
+- email: `lynux@paymongo.com`.
 - :peach: Currently an intern at [Paymongo](https://paymongo.com/)
-
