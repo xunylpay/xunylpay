@@ -3,4 +3,4 @@
 🎊 Hello world!
 
 - email: `lynux@paymongo.com`.
-- :peach: Currently an intern at [Paymongo](https://paymongo.com/)
+- :peach: CS Developer [Paymongo](https://paymongo.com/)
